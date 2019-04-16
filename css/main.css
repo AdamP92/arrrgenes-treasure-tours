@@ -77,6 +77,10 @@ html {
   color: #fff;
 }
 
+nav a:focus {
+  outline: 3px solid #bea59b;
+}
+
 @media only screen and (min-width: 38em) {
 
   .logo {
